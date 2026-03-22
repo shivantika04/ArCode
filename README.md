@@ -1,3 +1,3 @@
-# Practice
+# ArCode 🔥
 
-A repository for practice projects and experiments.
+A gamified coding streak app — build consistency, track progress, and level up your coding habits.
